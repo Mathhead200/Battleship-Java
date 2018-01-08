@@ -1,0 +1,5 @@
+new Boat(5, "J4", VERTICAL),
+new Boat(4, "G2", HORIZONTAL),
+new Boat(3, "B5", HORIZONTAL),
+new Boat(3, "D7", HORIZONTAL),
+new Boat(2, "C1", VERTICAL)
